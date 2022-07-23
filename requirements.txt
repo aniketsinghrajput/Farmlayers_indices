@@ -24,7 +24,7 @@ oauthlib==3.1.1
 
 spyder
 voila
-geemap
+earthengine-api
 ee
 ipywidgets
 
